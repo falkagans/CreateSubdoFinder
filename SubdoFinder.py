@@ -18,7 +18,7 @@ Subdomain Finder"""+CEN)
 	#domain = raw_input("Masukkan Domain (Example =  falkapink.id) : ")
 	wordlist=""
 	print("==================================================")
-	print(CRE+" Coder  : FALKA (GOD SHEEL "+CEN)
+	print(CRE+" Coder  : FALKA (GOD SHEEL) "+CEN)
 	print(CRE+" Github : https://github.com/falkagans)"+CEN)
 	print("==================================================")
 	print(CGR+"OPTION :"+CEN)
